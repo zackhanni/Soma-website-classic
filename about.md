@@ -3,10 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-something in this file
+Located in the Northern Liberties district of Philadelphia, Soma Studios was started by producer, and mixing and mastering engineer Zack Hanni in 2007.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Our Competative rates and abaility to exceed expectations have kept our clients coming back time and time again.
