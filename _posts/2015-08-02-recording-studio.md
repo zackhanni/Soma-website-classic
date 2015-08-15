@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Recording Studio
-date:   2015-08-02 18:17:10
-permalink: /recording_studio/
 tags: front_page
 ---
 - - -
