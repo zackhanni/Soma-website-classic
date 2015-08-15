@@ -2,6 +2,7 @@
 layout: page
 title: Recording Studio
 permalink: /recording_studio/
+tags: front_page
 ---
 We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio.
 
