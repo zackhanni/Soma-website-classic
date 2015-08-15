@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Recording Studio
 tags: front_page
 ---
