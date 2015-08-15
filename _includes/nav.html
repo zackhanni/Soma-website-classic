@@ -5,9 +5,7 @@
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                 <i class="fa fa-bars"></i>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">
-                <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-            </a>
+            <a class="navbar-brand page-scroll" href="#page-top">{{ site.title }}</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -17,9 +15,11 @@
                 <li class="hidden">
                     <a href="#page-top"></a>
                 </li>
-                {% for page in site.pages %}
-                  {% if page.title %}
-                    <a class="page-scroll" href="{{ page.title | prepend: '#' }}">{{ page.title }}</a>
+                {% for page in site.posts %}
+                  {% if page.tags contains "front_page" %}
+                    <li>
+                        <a class="page-scroll" href="{{ page.title | slugify | prepend: '#' }}">{{ page.title }}</a>
+                    </li>
                   {% endif %}
                 {% endfor %}
                 <!-- <li>
