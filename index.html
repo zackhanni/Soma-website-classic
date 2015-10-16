@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% assign front_pages = site.posts | sort: 'date', 'last' %}
+  <section id="first"></section>
 {% for page in front_pages %}
 {% if page.tags contains "front_page" %}
   <section id="{{ page.title | slugify }}" class="container content-section text-center">

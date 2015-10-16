@@ -15,7 +15,8 @@
         <li class="hidden">
           <a href="#page-top"></a>
         </li>
-        {% for page in site.posts %}
+        {% assign front_pages = site.posts | sort: 'date', 'last' %}
+        {% for page in front_pages %}
           {% if page.tags contains "front_page" %}
             <li>
               <a class="page-scroll" href="{{ page.title | slugify | prepend: '#' }}">{{ page.title }}</a>
