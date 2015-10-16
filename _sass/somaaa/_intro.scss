@@ -5,7 +5,10 @@
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
+    background-image: url(/img/intro-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: scroll;
     background-color: $primary-dark;
     -webkit-background-size: cover;
     -moz-background-size: cover;
