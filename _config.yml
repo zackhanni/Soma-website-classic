@@ -1,6 +1,6 @@
 # Site settings
 title: Soma Studios
-email: your-email@domain.com
+email: somarecordingstudios@gmail.com
 url: "http://zackhanni.github.io" # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -11,7 +11,7 @@ twitter_username: somaaamusic
 github_username:  zackhanni
 
 # Footer settings
-footer: Your Website
+footer: Soma Studios
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -19,6 +19,8 @@ social:
     url: https://facebook.com/somaaamusic
   - title: thumbtack
     url: https://www.thumbtack.com/profile/services/2PD0eXy78jLD6A
+  - title: youtube
+    url: https://www.youtube.com/user/basscreators
 
 # Build settings
 markdown: kramdown
