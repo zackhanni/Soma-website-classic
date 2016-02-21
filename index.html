@@ -6,10 +6,12 @@ layout: default
   <section id="first"></section>
 {% for page in all_pages %}
   {% if page.tags contains "front_page" %}
-    <section id="{{ page.title | slugify }}" class="container content-section text-center">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          {{ page.content }}
+    <section id="{{ page.title | slugify }}" class="content-section text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            {{ page.content }}
+          </div>
         </div>
       </div>
     </section>
