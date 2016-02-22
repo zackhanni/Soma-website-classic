@@ -1,7 +1,14 @@
 .content-section {
     padding-top: 100px;
-}
 
+    &::before {
+        display: block;
+        content: "";
+        height: 540px;
+        width: 100%;
+        background: url(http://placehold.it/1920x1080) no-repeat center center;
+    }
+}
 .download-section {
     width: 100%;
     padding: 50px 0;
