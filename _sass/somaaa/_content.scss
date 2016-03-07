@@ -7,8 +7,15 @@
         height: 540px;
         width: 100%;
         margin: 30px 0;
+        background-repeat: no-repeat;
+        background-position: center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
         // TODO: This needs to be part of a different selector to allow different images for each section
-        background: url(http://placehold.it/1920x1080/18D9D9) no-repeat center center;
+        background-image: url(http://placehold.it/1920x1080/18D9D9);
     }
 }
 .download-section {
