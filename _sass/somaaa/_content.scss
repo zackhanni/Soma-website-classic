@@ -1,6 +1,8 @@
 .content-section {
     padding-top: 100px;
+}
 
+.content-section-with-image {
     &::before {
         display: block;
         content: "";
@@ -13,11 +15,9 @@
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
-
-        // TODO: This needs to be part of a different selector to allow different images for each section
-        background-image: url(http://placehold.it/1920x1080/18D9D9);
     }
 }
+
 .download-section {
     width: 100%;
     padding: 50px 0;

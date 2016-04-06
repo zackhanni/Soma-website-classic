@@ -1,0 +1,23 @@
+#introduction {
+  &::before {
+    background-image: url(/img/section-introduction.jpg);
+  }
+}
+
+#recording-studio {
+  &::before {
+    background-image: url(/img/section-recording-studio.jpg);
+  }
+}
+
+#lessons {
+  &::before {
+    background-image: url(/img/section-lessons.jpg);
+  }
+}
+
+#contact-us {
+  &::before {
+    background-image: url(/img/section-contact-us.jpg);
+  }
+}
