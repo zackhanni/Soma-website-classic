@@ -21,3 +21,9 @@
     background-image: url(/img/section-contact-us.jpg);
   }
 }
+
+#music-samples {
+  &::before {
+    background-image: url(/img/section-music-samples.jpg);
+  }
+}
