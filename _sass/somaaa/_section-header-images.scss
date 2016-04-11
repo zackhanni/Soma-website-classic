@@ -1,35 +1,29 @@
-#introduction {
-  &::before {
-    background-image: url(/zackhanni.github.io/img/section-introduction.jpg);
-  }
-}
-
 #recording-studio {
   &::before {
-    background-image: url(/zackhanni.github.io/img/section-recording-studio.jpg);
+    background-image: url(#{$baseurl}/img/section-recording-studio.jpg);
   }
 }
 
 #lessons {
   &::before {
-    background-image: url(/zackhanni.github.io/img/section-lessons.jpg);
+    background-image: url(#{$baseurl}/img/section-lessons.jpg);
   }
 }
 
 #contact-us {
   &::before {
-    background-image: url(/zackhanni.github.io/img/section-contact-us.jpg);
+    background-image: url(#{$baseurl}/img/section-contact-us.jpg);
   }
 }
 
 #music-samples {
   &::before {
-    background-image: url(/zackhanni.github.io/img/section-music-samples.jpg);
+    background-image: url(#{$baseurl}/img/section-music-samples.jpg);
   }
 }
 
 #rates-services {
   &::before {
-    background-image: url(/img/section-rates-services.jpg);
+    background-image: url(#{$baseurl}/img/section-rates-services.jpg);
   }
 }

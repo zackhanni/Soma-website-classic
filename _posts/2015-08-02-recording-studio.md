@@ -1,6 +1,7 @@
 ---
 title: Recording Studio
 tags: front_page
+header_image: true
 ---
 
 We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of any major recording studio.
