@@ -1,6 +1,7 @@
 ---
 title: Music Samples
 tags: front_page
+header_image: true
 ---
 
 # Music Samples

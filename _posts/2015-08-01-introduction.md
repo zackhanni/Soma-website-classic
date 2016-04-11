@@ -1,6 +1,7 @@
 ---
 title: Introduction
 tags: front_page
+header_image: false
 ---
 
 Located in the historic Fishtown district of Philadelphia, Soma Studios was founded by producer, and mixing and mastering engineer Zack Hanni in 2007.
