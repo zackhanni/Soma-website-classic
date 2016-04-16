@@ -6,10 +6,12 @@ header_image: true
 # Studio Rates & Services
 
 Standard Hourly Rate $25/Hour (1 Hour Minimum)
+
 * Includes recording, mixing, mastering, file transfers, and all other work while you are present in the studio.
 * Bulk Rate $200 for 10 hours (Time can be split across sessions)
 
 Mixing And Mastering Services
+
 * $30 Vocal + Instumental
 * $60 Multitrack Recording
 * $25 Mastering
@@ -22,8 +24,8 @@ Mastering is the final step in bringing your recording to its potential. Gives y
 
 ## Please allow 3-4 business days for completion
 
-
 Start selling YOUR music!
+
 * Get on iTunes, Apple Music, Spotify, Amazon and more!
 * Phycical CD manufacturing with full Artwork.
 * Distribute worldwide and collect royalties.
