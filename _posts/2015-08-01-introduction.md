@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Intro
 tags: front_page
 header_image: false
 ---
