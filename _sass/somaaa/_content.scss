@@ -8,7 +8,7 @@
         content: "";
         height: 540px;
         width: 100%;
-        margin: 30px 0;
+        margin: 0 0 30px;
         background-repeat: no-repeat;
         background-position: center center;
         -webkit-background-size: cover;
@@ -16,18 +16,6 @@
         -o-background-size: cover;
         background-size: cover;
     }
-}
-
-.download-section {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(#{$baseurl}/img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: $primary-dark;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 #map {
