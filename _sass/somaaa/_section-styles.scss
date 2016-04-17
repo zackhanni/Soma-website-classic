@@ -1,0 +1,67 @@
+#intro {
+  background-color: $color-01;
+  color: #000;
+}
+
+// "First" navbar item selector
+.navbar-custom .nav li:nth-child(2).active {
+  background-color: $color-01;
+}
+
+#rates-services {
+  background-color: $color-02;
+  color: #000;
+
+  hr {
+    border-top: 1px solid #000;
+  }
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-rates-services.jpg);
+  }
+}
+
+// "Second" navbar item selector
+.navbar-custom .nav li:nth-child(3).active {
+  background-color: $color-02;
+}
+
+#lessons {
+  background-color: $color-03;
+
+  hr {
+    border-top: 1px solid #FFF;
+  }
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-lessons.jpg);
+  }
+}
+
+// "Third" navbar item selector
+.navbar-custom .nav li:nth-child(4).active {
+  background-color: $color-03;
+}
+
+#music-samples {
+  background-color: $color-04;
+  color: #000;
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-music-samples.jpg);
+  }
+}
+
+// "Fourth" navbar item selector
+.navbar-custom .nav li:nth-child(5).active {
+  background-color: $color-04;
+}
+
+#contact-us {
+  background-color: $color-contact;
+  color: #FFF;
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-contact-us.jpg);
+  }
+}
