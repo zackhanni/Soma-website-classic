@@ -1,0 +1,40 @@
+#intro {
+  background-color: #FED134;
+  color: #000;
+}
+
+#rates-services {
+  background-color: #00FFFF;
+  color: #000;
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-rates-services.jpg);
+  }
+}
+
+#lessons {
+  background-color: #949494;
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-lessons.jpg);
+  }
+}
+
+#music-samples {
+  background-color: #B1C5FF;
+  color: #000;
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-music-samples.jpg);
+  }
+}
+
+
+#contact-us {
+  background-color: #000;
+  color: #FFF;
+
+  &::before {
+    background-image: url(#{$baseurl}/img/section-contact-us.jpg);
+  }
+}
