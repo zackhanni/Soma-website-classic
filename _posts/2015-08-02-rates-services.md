@@ -31,4 +31,4 @@ $5 Off For Combo Mix/Master
 
 - - -
 
-Mastering is the final step in bringing your recording to its potential. Gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio ready --  you never know who's listening!
+Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio ready --  you never know who's listening!
