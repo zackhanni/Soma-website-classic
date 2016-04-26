@@ -19,7 +19,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 # Mixing And Mastering Services
 
-$30 Mixing Vocal + Instumental
+$30 Mixing Vocal + Instrumental
 
 $60 Mixing Multitrack Recording
 
