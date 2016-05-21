@@ -16,7 +16,7 @@ $(window).scroll(function() {
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
-        var navHeight = $('nav[role="navigation"]').height();
+        var navHeight = $('nav[role="navigation"] .navbar-header').height();
         var $anchor = $(this);
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top - navHeight
