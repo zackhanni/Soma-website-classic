@@ -10,17 +10,16 @@
     font-weight: 700;
 }
 
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: inherit;
+}
+
 .navbar-custom .navbar-brand:focus {
     outline: 0;
 }
 
 .navbar-custom a {
     color: #fff;
-}
-
-.navbar-custom .nav li.active {
-    outline: nonte;
-    background-color: rgba(255,255,255,.3);
 }
 
 .navbar-custom .nav li a {
@@ -30,10 +29,9 @@
 }
 
 .navbar-custom .nav li a:hover,
-.navbar-custom .nav li a:focus,
-.navbar-custom .nav li a.active {
-    outline: 0;
-    background-color: rgba(255,255,255,.3);
+.navbar-custom .nav li a.active,
+.navbar-custom .nav li.active {
+    background-color: inherit;
 }
 
 @media(min-width:767px) {

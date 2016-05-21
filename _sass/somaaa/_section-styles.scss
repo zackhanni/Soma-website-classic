@@ -3,11 +3,6 @@
   color: #000;
 }
 
-// "First" navbar item selector
-.navbar-custom .nav li:nth-child(2).active {
-  background-color: $color-01;
-}
-
 #rates-services {
   background-color: $color-02;
   color: #000;
@@ -19,11 +14,6 @@
   &::before {
     background-image: url(#{$baseurl}/img/section-rates-services.jpg);
   }
-}
-
-// "Second" navbar item selector
-.navbar-custom .nav li:nth-child(3).active {
-  background-color: $color-02;
 }
 
 #lessons {
@@ -38,11 +28,6 @@
   }
 }
 
-// "Third" navbar item selector
-.navbar-custom .nav li:nth-child(4).active {
-  background-color: $color-03;
-}
-
 #music-samples {
   background-color: $color-04;
   color: #000;
@@ -52,11 +37,6 @@
   }
 }
 
-// "Fourth" navbar item selector
-.navbar-custom .nav li:nth-child(5).active {
-  background-color: $color-04;
-}
-
 #contact-us {
   background-color: $color-contact;
   color: #FFF;
@@ -64,4 +44,36 @@
   &::before {
     background-image: url(#{$baseurl}/img/section-contact-us.jpg);
   }
+}
+
+.top-nav-collapse.navbar-custom .nav {
+
+  // "First" navbar item selector
+  li:nth-child(2) a:hover,
+  li:nth-child(2) a.active,
+  li:nth-child(2).active {
+    background-color: $color-01;
+  }
+
+  // "Second" navbar item selector
+  li:nth-child(3) a:hover,
+  li:nth-child(3) a.active,
+  li:nth-child(3).active {
+    background-color: $color-02;
+  }
+
+  // "Third" navbar item selector
+  li:nth-child(4) a:hover,
+  li:nth-child(4) a.active,
+  li:nth-child(4).active {
+    background-color: $color-03;
+  }
+
+  // "Fourth" navbar item selector
+  li:nth-child(5) a:hover,
+  li:nth-child(5) a.active,
+  li:nth-child(5).active {
+    background-color: $color-04;
+  }
+
 }
