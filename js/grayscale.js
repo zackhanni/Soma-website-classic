@@ -16,9 +16,10 @@ $(window).scroll(function() {
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
+        var navHeight = $('nav[role="navigation"]').height();
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
+            scrollTop: $($anchor.attr('href')).offset().top - navHeight
         }, 600, 'easeInOutExpo');
         event.preventDefault();
     });
