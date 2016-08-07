@@ -1,14 +1,9 @@
-.content-section {
-    padding-top: 30px;
-}
-
 .content-section-with-image {
     &::before {
         display: block;
         content: "";
         height: 540px;
         width: 100%;
-        margin: 0 0 30px;
         background-repeat: no-repeat;
         background-position: center center;
         -webkit-background-size: cover;
@@ -24,10 +19,6 @@
 }
 
 @media(min-width:767px) {
-    .content-section {
-        padding-top: 30px;
-    }
-
     .download-section {
         padding: 100px 0;
     }

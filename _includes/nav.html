@@ -20,12 +20,12 @@
         {% for page in front_pages %}
           {% if page.tags contains "front_page" %}
             <li>
-              <a class="page-scroll" href="{{ page.title | slugify | prepend: '#' }}">{{ page.title }}</a>
+              <a class="page-scroll" href="{{ page.title | slugify | prepend: '#section-' }}">{{ page.title }}</a>
             </li>
           {% endif %}
         {% endfor %}
         <li>
-          <a class="page-scroll" href="#contact-us">Contact Us</a>
+          <a class="page-scroll" href="#section-contact-us">Contact Us</a>
         </li>
       </ul>
     </div>

@@ -1,9 +1,12 @@
+{% assign page_title = "Contact Us" %}
+{% assign section_slug = page_title | slugify | prepend: 'section-' %}
+
 <!-- Contact Section -->
-<section id="contact-us" class="content-section-with-image text-center">
-  <div class="container">
+<section class="content-section-with-image text-center {{ section_slug }}">
+  <div id="{{ section_slug }}" class="container" style="padding-top: 30px">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
-        <h2>Contact</h2>
+        <h2>Contact Us</h2>
         <p>We will respond within 1 business day.</p>
         <ul class="list-inline banner-social-buttons">
           {% for network in site.social %}
