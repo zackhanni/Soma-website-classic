@@ -1,10 +1,10 @@
 section {
-  &#intro {
+  &.section-intro {
     background-color: $color-01;
     color: #000;
   }
 
-  &#rates-services {
+  &.section-rates-services {
     background-color: $color-02;
     color: #000;
 
@@ -17,7 +17,7 @@ section {
     }
   }
 
-  &#lessons {
+  &.section-lessons {
     background-color: $color-03;
 
     hr {
@@ -29,7 +29,7 @@ section {
     }
   }
 
-  &#music-samples {
+  &.section-music-samples {
     background-color: $color-04;
     color: #000;
 
@@ -38,7 +38,7 @@ section {
     }
   }
 
-  &#contact-us {
+  &.section-contact-us {
     background-color: $color-contact;
     color: #FFF;
 

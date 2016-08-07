@@ -6,8 +6,9 @@ layout: default
   <section id="first"></section>
 {% for page in all_pages %}
   {% if page.tags contains "front_page" %}
-    <section id="{{ page.title | slugify }}" class="content-section{% if page.header_image %}-with-image{% endif %}">
-      <div class="container">
+    {% assign section_slug = page.title | slugify | prepend: 'section-' %}
+    <section class="content-section{% if page.header_image %}-with-image{% endif %} {{ section_slug }}">
+      <div id="{{ section_slug }}" class="container" style="padding-top: 30px">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2">
             {{ page.content }}
