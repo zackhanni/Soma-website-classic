@@ -323,7 +323,7 @@ $grid-columns:              12 !default;
 $grid-gutter-width:         30px !default;
 // Navbar collapse
 //** Point at which the navbar becomes uncollapsed.
-$grid-float-breakpoint:     $screen-sm-min !default;
+$grid-float-breakpoint:     $screen-md-min !default;
 //** Point at which the navbar begins collapsing.
 $grid-float-breakpoint-max: ($grid-float-breakpoint - 1) !default;
 
@@ -415,7 +415,7 @@ $navbar-inverse-toggle-border-color:        #333 !default;
 //##
 
 //=== Shared nav styles
-$nav-link-padding:                          10px 15px !default;
+$nav-link-padding:                          10px 10px !default;
 $nav-link-hover-bg:                         $gray-lighter !default;
 
 $nav-disabled-link-color:                   $gray-light !default;
