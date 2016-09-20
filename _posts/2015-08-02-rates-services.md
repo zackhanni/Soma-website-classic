@@ -5,11 +5,11 @@ header_image: true
 ---
 # Studio Rates & Services
 
-Standard Hourly Rate $25/Hour (1 Hour Minimum)
+Standard Hourly Rate $30/Hour (1 Hour Minimum)
 
 Includes recording, mixing, mastering, file transfers, and all other work while you are present in the studio.
 
-Bulk Rate $200 for 10 hours (Time can be split across sessions)
+Bulk Rate $250 for 10 hours (Time can be split across sessions)
 
 - - -
 
