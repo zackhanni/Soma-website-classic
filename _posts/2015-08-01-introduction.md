@@ -4,7 +4,11 @@ tags: front_page
 header_image: false
 ---
 
-Located in the historic Fishtown district of Philadelphia, Soma Recording Studios was founded by producer, and mixing and mastering engineer Zack Hanni in 2007.
+We welcome you to our new location in Pennsauken, NJ! Only 10 minutes from the Betsy Ross Bridge. 
+
+- - -
+
+Soma Recording Studios was founded by producer, and mixing and mastering engineer Zack Hanni in 2007.
 
 We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio.
 
