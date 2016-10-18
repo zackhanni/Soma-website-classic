@@ -46,7 +46,7 @@ function init() {
         zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(39.974125, -75.135411), // 1513 N Howard St
+        center: new google.maps.LatLng(39.966765, -75.032508), // 2630 Pettit Road
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
@@ -174,8 +174,8 @@ function init() {
 
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     var image = 'img/map-marker.png';
-    var myLatLng = new google.maps.LatLng(39.974125, -75.135411);
-    var beachMarker = new google.maps.Marker({
+    var myLatLng = new google.maps.LatLng(39.966765, -75.032508);
+    var studioMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
         icon: image
