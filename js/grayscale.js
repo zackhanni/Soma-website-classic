@@ -181,4 +181,11 @@ function init() {
         icon: image,
         animation: google.maps.Animation.BOUNCE
     });
+
+    map.addListener('click', openGoogleMaps);
+    studioMarker.addListener('click', openGoogleMaps);
+}
+
+function openGoogleMaps() {
+    window.open("https://goo.gl/maps/bYaB61T2AVS2");
 }
