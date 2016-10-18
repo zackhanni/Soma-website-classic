@@ -8,10 +8,6 @@ section {
     background-color: $color-02;
     color: #000;
 
-    hr {
-      border-top: 1px solid #000;
-    }
-
     &::before {
       background-image: url(#{$baseurl}/img/section-rates-services.jpg);
     }
@@ -45,6 +41,13 @@ section {
     &::before {
       background-image: url(#{$baseurl}/img/section-contact-us.jpg);
     }
+  }
+}
+
+hr {
+  .section-rates-services &,
+  .section-intro & {
+    border-top: 1px solid #000;
   }
 }
 
