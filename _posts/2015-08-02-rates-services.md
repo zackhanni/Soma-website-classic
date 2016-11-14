@@ -35,7 +35,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 # Lessons
 
-All Lessons are $35 per hour
+All Lessons are $30 per hour
 
 Feel free to bring your own songs, stems, or equipment
 
