@@ -3,9 +3,9 @@ title: Soma Recording Studios
 email: somarecordingstudios@gmail.com
 url: "http://zackhanni.github.io" # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
-  Located in the historic Fishtown district of Philadelphia, Soma Recording Studios was founded by producer, and mixing and mastering engineer Zack Hanni in 2007.
+  Soma Recording Studios was founded by producer, and mixing and mastering engineer Zack Hanni in 2007.
   We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio.
-  Our competitive rates and ability to exceed expectations have kept our clients coming back, time and time again.
+  Our competitive rates and ability to exceed expectations have kept our clients coming back, time and time again. Pennsauken New Jersey Philadelphia Pennsylvania
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: somaaamusic
 github_username:  zackhanni
@@ -15,8 +15,10 @@ footer: Soma Recording Studios
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: instagram
+    url: https://www.instagram.com/somarecordingstudios/?hl=en
   - title: facebook
-    url: https://facebook.com/somaaamusic
+    url: https://www.facebook.com/Soma-Recording-Studios-100396380314243/
   - title: thumbtack
     url: https://www.thumbtack.com/profile/services/2PD0eXy78jLD6A
   - title: youtube
