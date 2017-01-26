@@ -8,7 +8,7 @@ We welcome you to our new location in Pennsauken, NJ! Only 10 minutes from the B
 
 - - -
 
-Soma Recording Studios was founded by producer, and mixing and mastering engineer Zack Hanni in 2007.
+Soma Recording Studios was founded by acclaimed producer, mixing and mastering engineer Zack Hanni in 2007.
 
 We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio.
 
