@@ -19,6 +19,8 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 # Mixing And Mastering Services
 
+For people who already have a recorded song ready to be touched up.
+
 $40 Mixing Vocal + Instrumental
 
 $80 Mixing Multitrack Recording
@@ -30,6 +32,22 @@ $25 Mastering
 - - -
 
 Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio ready --  you never know who's listening!
+
+- - -
+
+# Podcast Production, Recording, and Editing
+
+$100-$300 per episode
+
+Please contact us so we can discuss the appropriate rate for your podcast.
+
+- - -
+
+# Lease or Buy Beats
+
+$20 MP3, $35 WAV, $50 Tracked out stems
+
+Ask for price about making exclusive songs or recreating your favorate beats
 
 - - -
 
