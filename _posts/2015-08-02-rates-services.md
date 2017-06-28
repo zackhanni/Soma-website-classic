@@ -42,7 +42,9 @@ Maximize your voice’s health, range, and  flexibility.
 $40 per hour
 
 kate.tenen@gmail.com
+
 (516) 680-8085
+
 katetenen.com
 
 - - -
