@@ -35,6 +35,18 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
+# Personalized Voice lessons from Kate Tenen
+
+Maximize your voice’s health, range, and  flexibility.
+
+$40 per hour
+
+kate.tenen@gmail.com
+(516) 680-8085
+katetenen.com
+
+- - -
+
 # Podcast Production, Recording, and Editing
 
 $100-$300 per episode
