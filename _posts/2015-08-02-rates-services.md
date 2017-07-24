@@ -5,11 +5,11 @@ header_image: true
 ---
 # Studio Rates & Services
 
-Standard Hourly Rate $50/Hour (1 Hour Minimum)
+Standard Hourly Rate $40/Hour (1 Hour Minimum)
 
 Includes recording, mixing, mastering, file transfers, and all other work while you are present in the studio.
 
-Bulk Rate $450 for 10 hours (Time can be split across sessions)
+Bulk Rate $350 for 10 hours (Time can be split across sessions)
 
 - - -
 
@@ -21,9 +21,9 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 Only for people who already have recorded song stems ready to be touched up.
 
-$50 Mixing Vocal + Stereo Instrumental
+$50 Mixing Vocals + Stereo Instrumental
 
-$100 Mixing Multitrack Recording
+$100 Mixing Multitrack Recording (vocals, bass, kick, snare, guitar, etc.)
 
 $30 Mastering
 
@@ -39,7 +39,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 Maximize your voice’s health, range, and  flexibility.
 
-$40 per hour
+$30 per hour
 
 kate.tenen@gmail.com
 
@@ -67,7 +67,7 @@ Ask for price about making exclusive songs or recreating your favorate beats
 
 # Lessons
 
-All Lessons are $50 per hour or less.
+All Lessons are $40 per hour or less.
 
 Feel free to bring your own songs, stems, or equipment
 
