@@ -19,6 +19,3 @@ Five years as his client and looking forward to more. Thanks Zack!" - Felicia Ch
 Beats For Sale
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/283504362&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-# Book Now!
-
-<!-- Start Square Appointments Embed Code --><script src='https://squareup.com/appointments/buyer/widget/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH.js'></script><!-- End Square Appointments EmbedCode -->

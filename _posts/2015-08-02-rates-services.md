@@ -64,7 +64,3 @@ $20 MP3, $35 WAV, $50 Tracked out stems
 Ask for price about making exclusive songs or recreating your favorate beats
 
 - - -
-
-# Book Now!
-
-<!-- Start Square Appointments Embed Code --><script src='https://squareup.com/appointments/buyer/widget/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH.js'></script><!-- End Square Appointments EmbedCode -->
