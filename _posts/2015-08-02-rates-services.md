@@ -23,9 +23,11 @@ Only for people who already have recorded song stems ready to be touched up.
 
 $50 Mixing Vocals + Stereo Instrumental
 
-$100 Mixing Multitrack Recording (vocals, bass, kick, snare, guitar, etc.)
+$100 Mixing Multitrack Recording (verse, chorus, bass, snare, guitar, etc.)
 
 $30 Mastering
+
+(we prefer stems to be 24 bit depth, 48k sample rate)
 
 # Please allow 3-4 business days for completion
 
@@ -64,3 +66,9 @@ $20 MP3, $35 WAV, $50 Tracked out stems
 Ask for price about making exclusive songs or recreating your favorate beats
 
 - - -
+
+# Lessons
+
+Learn to make beats or record from home with personalized lessons from a professional.
+
+Control synthesizers and learn about vocal effects to make your next song pop.
