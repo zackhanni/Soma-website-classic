@@ -13,7 +13,7 @@ section {
     }
   }
 
-  &.section-lessons {
+  &.section-book-now {
     background-color: $color-03;
 
     hr {
@@ -21,7 +21,7 @@ section {
     }
 
     &::before {
-      background-image: url(#{$baseurl}/img/section-lessons.jpg);
+      background-image: url(#{$baseurl}/img/section-book-now.jpg);
     }
   }
 
