@@ -19,7 +19,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 # Mixing And Mastering Services
 
-Only for people who already have recorded song stems ready to be touched up.
+For those who already have recorded song stems ready to be touched up.
 
 $50 Mixing Vocals + Stereo Instrumental
 
@@ -34,6 +34,14 @@ $30 Mastering
 - - -
 
 Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio ready --  you never know who's listening!
+
+- - -
+
+# Lease or Buy Beats (demos below)
+
+$20 MP3, $35 WAV, $50 Tracked out stems
+
+Ask for price about making exclusive songs or recreating your favorite beats
 
 - - -
 
@@ -59,15 +67,9 @@ Please contact us so we can discuss the appropriate rate for your podcast.
 
 - - -
 
-# Lease or Buy Beats
-
-$20 MP3, $35 WAV, $50 Tracked out stems
-
-Ask for price about making exclusive songs or recreating your favorate beats
-
-- - -
-
 # Lessons
+
+$40 per hour
 
 Learn to make beats or record from home with personalized lessons from a professional.
 
