@@ -5,11 +5,11 @@ header_image: true
 ---
 # Studio Rates & Services
 
-Standard Hourly Rate $40/Hour (1 Hour Minimum)
+Standard Hourly Rate $45/Hour (1 Hour Minimum)
 
 Includes recording, mixing, mastering, file transfers, and all other work while you are present in the studio.
 
-Bulk Rate $350 for 10 hours (Time can be split across sessions)
+Bulk Rate $400 for 10 hours (Time can be split across sessions)
 
 - - -
 
@@ -61,7 +61,7 @@ katetenen.com
 
 # Podcast Production, Recording, and Editing
 
-$100-$300 per episode
+$100-$300 per episode or by hourly rate
 
 Please contact us so we can discuss the appropriate rate for your podcast.
 
@@ -69,7 +69,7 @@ Please contact us so we can discuss the appropriate rate for your podcast.
 
 # Lessons
 
-$40 per hour
+$45 per hour
 
 Learn to make beats or record from home with personalized lessons from a professional.
 
