@@ -5,7 +5,7 @@ header_image: true
 ---
 # Studio Rates & Services
 
-Standard Hourly Rate $45/Hour (1 Hour Minimum)
+Standard Hourly Rate $45/Hour
 
 Includes recording, mixing, mastering, file transfers, and all other work while you are present in the studio.
 
@@ -21,11 +21,11 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 For those who already have recorded song stems ready to be touched up.
 
-$50 Mixing Vocals + Stereo Instrumental
+$80 Mix and Master : Vocals + Stereo Instrumental (5 tracks max)
 
-$100 Mixing Multitrack Recording (verse, chorus, bass, snare, guitar, etc.)
+$130 Mix and Master : Multitrack Recording (verse, bass, snare, guitar, etc.)
 
-$30 Mastering
+$30 Mastering Only
 
 (we prefer stems to be 24 bit depth, 48k sample rate)
 
@@ -74,3 +74,6 @@ $45 per hour
 Learn to make beats or record from home with personalized lessons from a professional.
 
 Control synthesizers and learn about vocal effects to make your next song pop.
+
+
+<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
