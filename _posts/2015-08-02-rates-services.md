@@ -5,6 +5,8 @@ header_image: true
 ---
 # Studio Rates & Services
 
+<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
+
 Standard Hourly Rate $45/Hour
 
 Includes recording, mixing, mastering, file transfers, and all other work while you are present in the studio.
@@ -61,7 +63,7 @@ katetenen.com
 
 # Podcast Production, Recording, and Editing
 
-$100-$300 per episode or by hourly rate
+$90-$300 per episode or by hourly rate
 
 Please contact us so we can discuss the appropriate rate for your podcast.
 
@@ -76,4 +78,4 @@ Learn to make beats or record from home with personalized lessons from a profess
 Control synthesizers and learn about vocal effects to make your next song pop.
 
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
+<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
