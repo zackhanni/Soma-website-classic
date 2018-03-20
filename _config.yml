@@ -3,13 +3,13 @@ title: Sounds Like Soma - Recording Studio | Music Mixing | Song Mastering
 email: SoundsLikeSoma@gmail.com
 url: "http://www.soundslikesoma.com" # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
-  Record, mix, and master your music, podcast, or audiobook at a professional recording studio. With over 10 years experience working in Philadelphia and South Jersey
+  Record, mix, and master your music, podcast, or audiobook at a professional recording studio. With over 11 years experience working in Philadelphia and South Jersey
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: somaaamusic
 github_username:  zackhanni
 
 # Footer settings
-footer: Sounds Like Soma
+footer: Sounds Like Soma, LLC
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
