@@ -12,8 +12,7 @@ Includes engieer, recording, mixing, mastering and file transfers for duration o
 
 Bulk Rate $400 for 10 hours (Time can be split across sessions)
 
-All work must be done during studio time
------------------------------------------
+**_All work must be done during studio time_**
 
 - - -
 
