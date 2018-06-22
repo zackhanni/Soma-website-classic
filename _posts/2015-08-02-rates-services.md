@@ -24,7 +24,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 For those who already have recorded song stems ready to be touched up.
 
-$80 Mix and Master : Vocals + Stereo Instrumental (5 tracks max)
+$80 Mix and Master : Vocals + Stereo Instrumental (Less than 10 tracks)
 
 $130 Mix and Master : Multitrack Recording (verse, bass, snare, guitar, etc.)
 
@@ -62,11 +62,11 @@ katetenen.com
 
 - - -
 
-# Podcast Production, Recording, and Editing
+# Podcasts
 
-$45 per hour (may be charged for 30-60min for setup and editing)
+$45 per hour
 
-Please contact us so we can discuss the appropriate rate for your podcast.
+We have multiple locations available for video recording
 
 - - -
 
@@ -78,5 +78,3 @@ Learn to make beats or record from home with personalized lessons from a profess
 
 Control synthesizers and learn about vocal effects to make your next song pop.
 
-
-<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
