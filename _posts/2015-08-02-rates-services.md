@@ -78,3 +78,4 @@ Learn to make beats or record from home with personalized lessons from a profess
 
 Control synthesizers and learn about vocal effects to make your next song pop.
 
+<blockquote>"Was a pleasure working with Soma Recording Studios. They have great up to date equipment. They make sure you come first. Very affordable and does great work. Would suggest anyone wanting to record to go here." - Gage Bingham</blockquote>
