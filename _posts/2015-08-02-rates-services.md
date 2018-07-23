@@ -6,13 +6,14 @@ header_image: true
 # Studio Rates & Services
 
 ## Studio A - $45/Hour
-<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
 
 Includes engieer, recording, mixing, mastering and file transfers for duration of time booked.
 
 Bulk Rate $400 for 10 hours (Time can be split across sessions)
 
 **_All work must be done during studio time_**
+
+<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
 
 - - -
 
@@ -48,25 +49,13 @@ Ask for price about making exclusive songs or recreating your favorite beats
 
 - - -
 
-# Personalized Voice lessons from Kate Tenen
-
-Maximize your voice’s health, range, and  flexibility.
-
-$35 per hour
-
-kate.tenen@gmail.com
-
-(516) 680-8085
-
-katetenen.com
-
-- - -
-
 # Podcasts
 
 $45 per hour
 
 We have multiple locations available for video recording
+
+Video recording and live streaming suite available (Free)
 
 - - -
 
@@ -77,5 +66,7 @@ $45 per hour
 Learn to make beats or record from home with personalized lessons from a professional.
 
 Control synthesizers and learn about vocal effects to make your next song pop.
+
+<br />
 
 <blockquote>"Was a pleasure working with Soma Recording Studios. They have great up to date equipment. They make sure you come first. Very affordable and does great work. Would suggest anyone wanting to record to go here." - Gage Bingham</blockquote>
