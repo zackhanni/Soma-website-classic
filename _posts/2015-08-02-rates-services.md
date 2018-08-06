@@ -29,6 +29,8 @@ $80 Mix and Master : Vocals + Stereo Instrumental (Less than 10 tracks)
 
 $130 Mix and Master : Multitrack Recording (verse, bass, snare, guitar, etc.)
 
+$180 Mix and Master : Multitrack 50+ tracks
+
 $30 Mastering Only
 
 (we prefer stems to be 24 bit depth, 48k sample rate)
@@ -43,7 +45,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 # Lease or Buy Beats (demos below)
 
-$20 MP3, $35 WAV, $50 Tracked out stems
+$30 MP3, $50 WAV, $80 Tracked out stems
 
 Ask for price about making exclusive songs or recreating your favorite beats
 
