@@ -5,7 +5,7 @@ header_image: true
 ---
 # Studio Rates & Services
 
-## Studio A - $45/Hour
+## Studio A ($45/Hour)
 
 Includes engieer, recording, mixing, mastering and file transfers for duration of time booked.
 
@@ -14,6 +14,15 @@ Bulk Rate $400 for 10 hours (Time can be split across sessions)
 **_All work must be done during studio time_**
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
+_ _ _
+
+## Studio B ($20 - $45/Hour)
+
+$20 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included. Contact us below for more information.)
+
+$45 - Studio B specializes in recording podcasts and bands. With a larger, more open area,  this space is perfect for large equipment and groups of people. Focus on production/recording in Studio B, then bring it over to Studio A for post-production (Mixing and Mastering)
+
+**_All work must be done during studio time_**
 
 - - -
 
@@ -25,17 +34,17 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 For those who already have recorded song stems ready to be touched up.
 
-$80 Mix and Master : Vocals + Stereo Instrumental (Less than 10 tracks)
+$80 Mix and Master : Vocals + Stereo Instrumental (Less than 10 track stems)
 
-$130 Mix and Master : Multitrack Recording (verse, bass, snare, guitar, etc.)
+$130 Mix and Master : Multitrack Recording 10 - 49 track stems
 
-$180 Mix and Master : Multitrack 50+ tracks
+$180 Mix and Master : Big Multitrack 50+ track stems
 
 $30 Mastering Only
 
-(we prefer stems to be 24 bit depth, 48k sample rate)
+(we prefer stems to have 24 bit depth, 48k sample rate)
 
-# Please allow 3-4 business days for completion
+# Please allow 2-4 business days for completion
 
 - - -
 
@@ -55,9 +64,11 @@ Ask for price about making exclusive songs or recreating your favorite beats
 
 $45 per hour
 
-We have multiple locations available for video recording
+We have multiple locations available for recording podcasts.
 
-Video recording and live streaming suite available (Free)
+We can also travel to your location (additional travel fee)
+
+Live streaming suite available
 
 - - -
 
