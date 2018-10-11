@@ -7,7 +7,7 @@ header_image: true
 
 ## Studio A ($45/Hour)
 
-Includes engieer, recording, mixing, mastering and file transfers for duration of time booked.
+Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
 Bulk Rate $400 for 10 hours (Time can be split across sessions)
 
