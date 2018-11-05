@@ -19,7 +19,7 @@ Bulk Rate $400 for 10 hours (Time can be split across sessions)
 
 ## Studio B ($20 - $45/Hour)
 
-$20 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included. Contact us below for more information.)
+$15 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included. Contact us below for more information.)
 
 $45 - Studio B specializes in recording podcasts and bands. With a larger, more open area,  this space is perfect for large equipment and groups of people. Focus on production/recording in Studio B, then bring it over to Studio A for post-production (Mixing and Mastering)
 
@@ -66,6 +66,8 @@ Ask for price about making exclusive songs or recreating your favorite beats
 $45 per hour
 
 We have multiple locations available for recording podcasts.
+
+Please leave extra time to edit the podcast.
 
 We can also travel to your location (additional travel fee)
 
