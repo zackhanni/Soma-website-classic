@@ -9,7 +9,7 @@ header_image: true
 
 Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
-Bulk Rate $400 for 10 hours (Time can be split across sessions)
+Bulk Rate $400 for 10 hours (Time can be split across sessions. Expires after 1 year.)
 
 **_All work must be done during studio time_**
 
