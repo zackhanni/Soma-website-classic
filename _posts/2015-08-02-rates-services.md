@@ -5,13 +5,13 @@ header_image: true
 ---
 # Studio Rates & Services
 
-## Studio A ($45/Hour)
+## Studio A ($50/Hour)
 
 Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
-Bulk Rate $400 for 10 hours (Time can be split across sessions. Expires after 1 year.)
+Bulk Rate $450 for 10 hours (Time can be split across sessions. Expires after 1 year.)
 
-**_All work must be done during studio time_**
+**_All work must be done during studio time_*
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
 
@@ -21,7 +21,7 @@ Bulk Rate $400 for 10 hours (Time can be split across sessions. Expires after 1 
 
 $15 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included. Contact us below for more information.)
 
-$45 - Studio B specializes in recording podcasts and bands. With a larger, more open area,  this space is perfect for large equipment and groups of people. Focus on production/recording in Studio B, then bring it over to Studio A for post-production (Mixing and Mastering)
+$50 - Studio B specializes in recording podcasts and bands. With a larger, more open area,  this space is perfect for large equipment and groups of people. Focus on production/recording in Studio B, then bring it over to Studio A for post-production (Mixing and Mastering)
 
 **_All work must be done during studio time_**
 
@@ -63,7 +63,7 @@ Ask for price about making exclusive songs or recreating your favorite beats
 
 # Podcasts
 
-$45 per hour
+$50 per hour
 
 We have multiple locations available for recording podcasts.
 
@@ -77,7 +77,11 @@ Live streaming suite available
 
 # Lessons
 
-$45 per hour
+$30/hr Guitar Lessons
+
+$45/hr Recording / Audio Mixing Lessons
+
+$45/hr Music Production / Beats / Synthesizers
 
 Learn to make beats or record from home with personalized lessons from a professional.
 
