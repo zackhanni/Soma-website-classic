@@ -17,9 +17,11 @@ Bulk Rate $450 for 10 hours (Time can be split across sessions. Expires after 1 
 
 - - -
 
-## Studio B ($20 - $45/Hour)
+## Studio B
 
-$15 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included. Contact us below for more information.)
+$20 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included. Contact us below for more information.)
+
+$25 - Studio B session with assistant engineer Gage
 
 $50 - Studio B specializes in recording podcasts and bands. With a larger, more open area,  this space is perfect for large equipment and groups of people. Focus on production/recording in Studio B, then bring it over to Studio A for post-production (Mixing and Mastering)
 
@@ -63,7 +65,7 @@ Ask for price about making exclusive songs or recreating your favorite beats
 
 # Podcasts
 
-$50 per hour
+$50/hr
 
 We have multiple locations available for recording podcasts.
 
@@ -79,9 +81,9 @@ Live streaming suite available
 
 $30/hr Guitar Lessons
 
-$45/hr Recording / Audio Mixing Lessons
+$50/hr Recording / Audio Mixing Lessons
 
-$45/hr Music Production / Beats / Synthesizers
+$50/hr Music Production / Beats / Synthesizers
 
 Learn to make beats or record from home with personalized lessons from a professional.
 
