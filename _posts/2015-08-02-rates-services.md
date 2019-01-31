@@ -59,7 +59,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 $30 MP3, $50 WAV, $80 Tracked out stems
 
-Ask for price about making exclusive songs or recreating your favorite beats
+Exclusive beats can be made during booked studio time for regular rates.
 
 - - -
 
@@ -88,6 +88,8 @@ $50/hr Music Production / Beats / Synthesizers
 Learn to make beats or record from home with personalized lessons from a professional.
 
 Control synthesizers and learn about vocal effects to make your next song pop.
+
+Contact us with any questions! 856-298-3095
 
 <br />
 
