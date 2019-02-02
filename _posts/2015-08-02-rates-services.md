@@ -13,7 +13,7 @@ Bulk Rate $450 for 10 hours (Time can be split across sessions. Expires after 1 
 
 **_All work must be done during studio time_**
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style="background-color: #03A8D8; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block;" href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services" rel="nofollow">Book an Appointment</a> <!-- End Square Appointments Embed code -->
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
 
 - - -
 
@@ -23,7 +23,7 @@ $20 BYOC - Bring your own computer and produce your own music. You can rent our 
 
 $25 - Studio B session with assistant engineer Gage
 
-$50 - Studio B specializes in recording podcasts and bands. With a larger, more open area,  this space is perfect for large equipment and groups of people. Focus on production/recording in Studio B, then bring it over to Studio A for post-production (Mixing and Mastering)
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
 
 **_All work must be done during studio time_**
 
@@ -79,11 +79,11 @@ Live streaming suite available
 
 # Lessons
 
-$30/hr Guitar Lessons
+Guitar Lessons
 
-$50/hr Recording / Audio Mixing Lessons
+Recording / Audio Mixing Lessons
 
-$50/hr Music Production / Beats / Synthesizers
+Music Production / Beats / Synthesizers
 
 Learn to make beats or record from home with personalized lessons from a professional.
 
