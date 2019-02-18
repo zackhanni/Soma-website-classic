@@ -4,7 +4,7 @@ tags: front_page
 header_image: false
 ---
 
-Sounds Like Soma, LLC was founded by acclaimed producer, mixing and mastering engineer Zack Hanni in 2007.
+Sounds Like Soma was founded by acclaimed producer, mixing and mastering engineer Zack Hanni in 2007.
 
 We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio.
 

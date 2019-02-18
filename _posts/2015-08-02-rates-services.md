@@ -67,9 +67,9 @@ Exclusive beats can be made during booked studio time.
 
 Multiple locations available for recording podcasts.
 
-Live streaming suite available
+Live streaming available
 
-## Basic editing included, Extra editing may require additional booked time.
+**_Basic editing included, Extra editing may require additional booked time._**
 
 - - -
 
@@ -81,7 +81,7 @@ Recording / Audio Mixing / Vocal Editing
 
 Music Arangement / Beat Production / Synthesizers
 
-## Learn to use the right effects to make your next song pop!
+**_Learn to use the right effects to make your next song pop!_**
 
 <br />
 
