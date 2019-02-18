@@ -5,9 +5,13 @@ header_image: true
 ---
 # Studio Rates & Services
 
-## Studio A ($50/Hour)
+## Studio A
 
-Check out our studio [Gear List](https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing "Sounds Like Soma Gear List")
+## Check out our studio [Gear List](https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing "Sounds Like Soma Gear List")
+
+<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Gear List">## Studio Gear List</a>
+
+$50 Standard Hourly Rate
 
 Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
