@@ -47,7 +47,7 @@ $30 Mastering Only
 
 (we prefer stems to have 24 bit depth, 48k sample rate)
 
-# Please allow 2-4 business days for completion
+## Please allow 2-4 business days for completion
 
 - - -
 
@@ -59,37 +59,29 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 $30 MP3, $50 WAV, $80 Tracked out stems
 
-Exclusive beats can be made during booked studio time for regular rates.
+Exclusive beats can be made during booked studio time.
 
 - - -
 
 # Podcasts
 
-$50/hr
-
-We have multiple locations available for recording podcasts.
-
-Please leave extra time to edit the podcast.
-
-We can also travel to your location (additional travel fee)
+Multiple locations available for recording podcasts.
 
 Live streaming suite available
+
+## Basic editing included, Extra editing may require additional booked time.
 
 - - -
 
 # Lessons
 
-Guitar Lessons
+Acoustic and Electric Guitar
 
-Recording / Audio Mixing Lessons
+Recording / Audio Mixing / Vocal Editing
 
-Music Production / Beats / Synthesizers
+Music Arangement / Beat Production / Synthesizers
 
-Learn to make beats or record from home with personalized lessons from a professional.
-
-Control synthesizers and learn about vocal effects to make your next song pop.
-
-Contact us with any questions! 856-298-3095
+## Learn to use the right effects to make your next song pop!
 
 <br />
 
