@@ -7,9 +7,7 @@ header_image: true
 
 ## Studio A ($50/Hour)
 
-<p>
-	<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing"> Gear List</a>
-</p>
+Check out our studio [Gear List](https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing "Sounds Like Soma Gear List")
 
 Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
