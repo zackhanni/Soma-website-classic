@@ -41,7 +41,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 - - -
 
-# Multitrack Mixing And Song Mastering
+# Multitrack Mixing And Mastering
 
 For those who recorded at another studio and want to finish the songs.
 
@@ -55,7 +55,7 @@ $30 Mastering Only
 
 (we prefer stems to have 24 bit depth, 48k sample rate)
 
-## Please allow 2-4 business days for completion
+## Please allow 2-4 business days for completion per song
 
 - - -
 
@@ -63,21 +63,23 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-# Lease or Buy Beats (demos below)
+# Lease or Buy Beats
 
-$30 MP3, $50 WAV, $80 Tracked out stems
+$50 WAV, $90 Tracked out stems
 
-Exclusive beats can be made during booked studio time.
+<a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/283504362&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" target="Beats On SoundCloud">Listen to Beats On Soundcloud</a>
 
-<a href="http://bit.ly/slsvol1" target="Buy a Beat">Click Here to Buy a Beat</a>
+<a href="http://bit.ly/slsvol1" target="Beats For Sale">Buy WAV Quality Beats on Bandcamp</a>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/283504362&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+(more demos and beats at bottom of website)
+
+**_Exclusive beats can be made during booked studio time_**
 
 - - -
 
 # Podcast Recording 
 
-Book as regular Studio A session ($50/hr)
+Book as a regular Studio A session ($50/hr)
 
 Multiple Locations Available (we can travel too!)
 
