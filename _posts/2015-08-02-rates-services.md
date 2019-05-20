@@ -63,7 +63,9 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-# Lease or Buy Beats
+# Beats
+
+Lease or buy exclusive rights
 
 $50 WAV, $90 Tracked out stems
 
@@ -81,7 +83,7 @@ $50 WAV, $90 Tracked out stems
 
 Book as a regular Studio A session ($50/hr)
 
-Multiple Locations Available (we can travel too!)
+Multiple Locations Available (+ we can travel)
 
 HD Video recording (+10/ per podcast episode)
 

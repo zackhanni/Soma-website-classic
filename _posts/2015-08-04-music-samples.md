@@ -6,17 +6,22 @@ header_image: true
 
 # Music Samples
 
-Rap / R&B Projects
+## Rap / R&B Projects
+
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/275557421&color=%236ebec2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <br />
 
-Rock / Country / Gospel / Jazz Projects
+## Studio Demos 
+
+Pop, Indie, Rock, Country, Gospel, Orchestral
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/360082994&color=%236ebec2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <br />
 
-Beats For Sale. Custom Beats Available
+## Beats For Sale
+
+Custom Beats Available
 <a href="http://bit.ly/slsvol1" target="Buy a Beat">Click Here to Buy a Beat</a>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/283504362&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
