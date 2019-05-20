@@ -31,9 +31,9 @@ $20 BYOC - Bring your own computer and produce your own music. You can rent our 
 
 $25 - Studio B with Engineer Gage Bingham
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
-
 **_All work must be done during studio time_**
+
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
 
 - - -
 
@@ -43,7 +43,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 # Multitrack Mixing And Song Mastering
 
-For those who already have recorded song stems ready to be touched up.
+For those who recorded at another studio and want to finish the songs.
 
 $90 Mix and Master : Vocals + Stereo Instrumental (Less than 10 track stems)
 
