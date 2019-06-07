@@ -29,7 +29,7 @@ $20 BYOC - Bring your own computer and produce your own music. You can rent our 
 
 <a href="https://docs.google.com/document/d/1-PJk55lg5GzF0svfcZdDDVSxHGpcvZTHn9SM6G5I1Uo/edit?usp=sharing" target="More Information on BYOC">More Information on BYOC</a>
 
-$25 - Studio B with Engineer Gage Bingham
+$30 - Studio B with Engineer Gage Bingham
 
 **_All work must be done during studio time_**
 
