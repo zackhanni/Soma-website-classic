@@ -7,7 +7,6 @@ header_image: true
 
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Gear List">Studio Gear List</a>
 
-- - -
 
 ## Studio A
 
@@ -15,7 +14,7 @@ $50 Standard Hourly Rate
 
 Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
-Bulk Rate $450 for 10 hours (Time can be split across 3 sessions. Expires after 1 year.)
+Bulk Rate $450 for 10 hours
 
 **_All work must be done during studio time_**
 
@@ -25,11 +24,11 @@ Bulk Rate $450 for 10 hours (Time can be split across 3 sessions. Expires after 
 
 ## Studio B
 
+$30 - Studio B with Engineer Gage Bingham
+
 $20 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included)
 
 <a href="https://docs.google.com/document/d/1-PJk55lg5GzF0svfcZdDDVSxHGpcvZTHn9SM6G5I1Uo/edit?usp=sharing" target="More Information on BYOC">More Information on BYOC</a>
-
-$30 - Studio B with Engineer Gage Bingham
 
 **_All work must be done during studio time_**
 
@@ -43,7 +42,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 # Multitrack Mixing And Mastering
 
-For those who recorded at another studio and want to finish the songs.
+For artists who record at another studio but want to finish songs with us.
 
 $90 Mix and Master : Vocals + Stereo Instrumental (Less than 10 track stems)
 
@@ -53,7 +52,7 @@ $200 Mix and Master : Big Multitrack 50+ track stems
 
 $30 Mastering Only
 
-(we prefer stems to have 24 bit depth, 48k sample rate)
+(we prefer stems to have 24 bit depth, 48k sample rate or better)
 
 ## Please allow 2-4 business days for completion per song
 
@@ -67,27 +66,25 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 Lease or buy exclusive rights
 
-$50 WAV, $90 Tracked out stems
+$30-$50 per song
 
-<a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/283504362&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" target="Beats On SoundCloud">Listen to Beats On Soundcloud</a>
-
-<a href="http://bit.ly/slsvol1" target="Beats For Sale">Buy WAV Quality Beats on Bandcamp</a>
+<a href="https://www.beatstars.com/soundslikesoma/feed" target="Beats For Sale on BeatStars">Listen to our beats on BeatStars</a>
 
 (more demos and beats at bottom of website)
 
-**_Exclusive beats can be made during booked studio time_**
+**_...OR make exclusive beats during your booked studio time_**
 
 - - -
 
 # Podcast Recording 
 
-Book as a regular Studio A session ($50/hr)
+**_FREE episode editing for most podcasts_**
 
-Multiple Locations Available (+ we can travel)
+$50/hr in Studio A
 
-HD Video recording (+10/ per podcast episode)
+Multiple Locations Available (and we travel to you)
 
-**_Basic editing included, Extra editing may require additional booked time. Please allow 2-4 bsuness days for completion_**
+Let us help you start a podcast and sound your best on Apple Podcasts
 
 - - -
 
