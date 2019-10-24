@@ -8,29 +8,20 @@ header_image: true
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Gear List">Studio Gear List</a>
 
 
-## Studio A
+## Studio A & B
 
-$50 Standard Hourly Rate
+$50/hr - Studio A with Engineer Zack Hanni
+
+$30/hr - Studio B with Engineer Gage Bingham
 
 Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
-Bulk Rate $450 for 10 hours
+$20 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included) <a href="https://docs.google.com/document/d/1-PJk55lg5GzF0svfcZdDDVSxHGpcvZTHn9SM6G5I1Uo/edit?usp=sharing" target="More Information on BYOC">More Information</a>
 
 **_All work must be done during studio time_**
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
 
-- - -
-
-## Studio B
-
-$30 - Studio B with Engineer Gage Bingham
-
-$20 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included)
-
-<a href="https://docs.google.com/document/d/1-PJk55lg5GzF0svfcZdDDVSxHGpcvZTHn9SM6G5I1Uo/edit?usp=sharing" target="More Information on BYOC">More Information on BYOC</a>
-
-**_All work must be done during studio time_**
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
 
@@ -42,7 +33,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 # Multitrack Mixing And Mastering
 
-For artists who record at another studio but want to finish songs with us.
+For artists who record at another studio but want to finish songs with Soma.
 
 $90 Mix and Master : Vocals + Stereo Instrumental (Less than 10 track stems)
 
@@ -55,6 +46,16 @@ $30 Mastering Only
 (we prefer stems to have 24 bit depth, 48k sample rate or better)
 
 ## Please allow 2-4 business days for completion per song
+
+- - -
+
+# Photo /Video
+ 
+**_Dont hire an expensive photographer, have Soma take pictures or video for a discounted rate_**
+
+In-house editing with a fast turnaround on content (usually same day!)
+
+Promote yourself with a 1 minute instagram highlight video, or showcase your latest release with a studio music video
 
 - - -
 
