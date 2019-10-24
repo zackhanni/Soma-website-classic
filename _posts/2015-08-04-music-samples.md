@@ -6,19 +6,15 @@ header_image: true
 
 # Music Samples
 
-## Rap / R&B Demos
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/275557421&color=%236ebec2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<br />
-
-## Pop, Indie, Rock, Country, Gospel, Orchestral
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/360082994&color=%236ebec2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+<iframe src="https://open.spotify.com/embed/playlist/1SrE4JTiMVMkgMFNsZG5fL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br />
 
 ## Beats For Sale
+Contact us for custom beats or bulk deals
 
-<a href="https://www.beatstars.com/soundslikesoma/feed" target="Beats For Sale on BeatStars">Buy / Listen to our beats on BeatStars</a>
+<a href="https://soundcloud.com/somastudios/sets/beats-for-sale" target="SoundCloud Beats For Sale">Listen to our beats on SoundCloud</a>
+
+<a href="https://www.beatstars.com/soundslikesoma/feed" target="Beats For Sale on BeatStars">Buy / Listen to our recent beats on BeatStars</a>
 
 <br />
 

@@ -72,7 +72,7 @@ $30-$50 per song
 
 (more demos and beats at bottom of website)
 
-**_...OR make exclusive beats during your booked studio time_**
+**_...OR contact us about custom beats_**
 
 - - -
 
