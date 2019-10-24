@@ -8,4 +8,6 @@ Sounds Like Soma was founded by acclaimed producer, mixing and mastering enginee
 
 We pride ourselves on having a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio.
 
-Our competitive rates and ability to exceed expectations have kept our clients coming back, time and time again.
+Our competitive rates and ability to exceed expectations have kept our clients coming back, time and time again. 
+
+Come in and record a song with us to find out for yourself

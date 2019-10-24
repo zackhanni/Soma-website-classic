@@ -14,9 +14,9 @@ $50/hr - Studio A with Engineer Zack Hanni
 
 $30/hr - Studio B with Engineer Gage Bingham
 
-Includes engineer, recording, mixing, mastering and file transfers for duration of time booked.
+Includes professional recording engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
-$20 BYOC - Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included) <a href="https://docs.google.com/document/d/1-PJk55lg5GzF0svfcZdDDVSxHGpcvZTHn9SM6G5I1Uo/edit?usp=sharing" target="More Information on BYOC">More Information</a>
+$20 BYOC - Music Studio For Rent. Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included, ask abount monthly packages) <a href="https://docs.google.com/document/d/1-PJk55lg5GzF0svfcZdDDVSxHGpcvZTHn9SM6G5I1Uo/edit?usp=sharing" target="More Information on BYOC">More Information</a>
 
 **_All work must be done during studio time_**
 
@@ -58,6 +58,8 @@ In-house editing with a fast turnaround on content (usually same day!)
 Promote yourself with a 1 minute instagram highlight video, or showcase your latest release with a studio music video
 
 - - -
+
+We're not just a hip hop recording studio, we have experiance with all genres and styles. 
 
 Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio ready --  you never know who's listening!
 
