@@ -65,15 +65,11 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-# Beats
+# Music Production and Beats
 
-Lease or buy exclusive rights
+<a href="https://soundcloud.com/somastudios/sets/beats-for-sale" target="SoundCloud Beats For Sale">Listen to our beats on SoundCloud</a>
 
-$30-$50 per song
-
-<a href="https://www.beatstars.com/soundslikesoma/feed" target="Beats For Sale on BeatStars">Listen to our beats on BeatStars</a>
-
-(more demos and beats at bottom of website)
+<a href="https://www.beatstars.com/soundslikesoma/feed" target="Beats For Sale on BeatStars">Buy / Listen to our recent beats on BeatStars</a>
 
 **_...OR contact us about custom beats_**
 
@@ -97,7 +93,7 @@ Acoustic and Electric Guitar
 
 Recording / Audio Mixing / Vocal Editing
 
-Music Arangement / Beat Production / Synthesizers
+Music Arangement / Music Production / Synthesizers / Make Beats
 
 **_Learn to use the right effects to make your next song pop!_**
 
