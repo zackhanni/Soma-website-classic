@@ -3,12 +3,11 @@ title: Rates & Services
 tags: front_page
 header_image: true
 ---
-# Studio Rates & Services
-
-<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Gear List">Studio Gear List</a>
-
+# Recording Studio Price List
 
 ## Studio A & B
+
+<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Gear List">Studio Gear List</a>
 
 $50/hr - Studio A with Engineer Zack Hanni
 
@@ -16,9 +15,9 @@ $30/hr - Studio B with Engineer Gage Bingham
 
 Includes professional recording engineer, recording, mixing, mastering and file transfers for duration of time booked.
 
-$20 BYOC - Music Studio For Rent. Bring your own computer and produce your own music. You can rent our space and equipment to do your own recording and production. (Engineer not included, ask abount monthly packages) <a href="https://docs.google.com/document/d/1-PJk55lg5GzF0svfcZdDDVSxHGpcvZTHn9SM6G5I1Uo/edit?usp=sharing" target="More Information on BYOC">More Information</a>
+$20 BYOC - Recording Studio Rental. Bring your own computer. You can rent our space and equipment to do your own recording and production. (Engineer not included, ask abount monthly packages)
 
-**_All work must be done during studio time_**
+**_All work must be done during time booked_**
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
 
@@ -27,13 +26,13 @@ $20 BYOC - Music Studio For Rent. Bring your own computer and produce your own m
 
 - - -
 
-It's always valuable to have a fresh set of ears when mixing and mastering a song -- otherwise you develop bias and waste time nit-picking when you could be making your next hit.
+It's always valuable to have a fresh set of ears when mixing and mastering a song -- otherwise you develop bias and waste time nit-picking when you could be making your next hit. Learn More about mastering a song <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">here</a>.
 
 - - -
 
-# Multitrack Mixing And Mastering
+## Multitrack Mixing And Mastering
 
-For artists who record at another studio but want to finish songs with Soma.
+If you have tracked out stems ready to be mixed and cleaned up we offer flat rates
 
 $90 Mix and Master : Vocals + Stereo Instrumental (Less than 10 track stems)
 
@@ -49,7 +48,7 @@ $30 Mastering Only
 
 - - -
 
-# Photo /Video
+## Photography / Music Videos
  
 **_Dont hire an expensive photographer, have Soma take pictures or video for a discounted rate_**
 
@@ -65,7 +64,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-# Music Production and Beats
+## Music Production and Beats
 
 <a href="https://soundcloud.com/somastudios/sets/beats-for-sale" target="SoundCloud Beats For Sale">Listen to our beats on SoundCloud</a>
 
@@ -75,19 +74,18 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-# Podcast Recording 
+## Podcast Recording Studios
 
-**_FREE episode editing for most podcasts_**
+**_Our Podcast Studio offers FREE episode editing for most podcasts_**
 
 $50/hr in Studio A
 
-Multiple Locations Available (and we travel to you)
+Multiple Locations Available (and we can travel to you)
 
-Let us help you start a podcast and sound your best on Apple Podcasts
-
+Not only can we help you record a podcast, we shoot live video and stream your episode out to your fans base
 - - -
 
-# Lessons
+## Music Lessons
 
 Acoustic and Electric Guitar
 

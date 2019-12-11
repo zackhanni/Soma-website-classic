@@ -4,13 +4,16 @@ tags: front_page
 header_image: true
 ---
 
-# Music Samples
+# Studio Demos
+
+Check out our official Spotify playlist of recent projects released by our artists.
 
 <iframe src="https://open.spotify.com/embed/playlist/1SrE4JTiMVMkgMFNsZG5fL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br />
 
-## Beats For Sale
-Contact us for custom beats or bulk deals
+## Custom Beats and Music Production
+
+Soma works with some of the best beat producers and music producers in Philadelphia. Contact us for more information so we can set up a consultation for instrumenting your next priject.
 
 <a href="https://soundcloud.com/somastudios/sets/beats-for-sale" target="SoundCloud Beats For Sale">Listen to our beats on SoundCloud</a>
 
