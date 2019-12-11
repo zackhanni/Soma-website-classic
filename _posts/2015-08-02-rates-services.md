@@ -17,6 +17,8 @@ Includes professional recording engineer, recording, mixing, mastering and file 
 
 $20 BYOC - Recording Studio Rental. Bring your own computer. You can rent our space and equipment to do your own recording and production. (Engineer not included, ask abount monthly packages)
 
+$15/Song Stem export (if outside of booked studio time)
+
 **_All work must be done during time booked_**
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
