@@ -10,4 +10,4 @@ We pride ourselves on having a relaxed, laid-back atmosphere, with the commitmen
 
 Our competitive rates and ability to exceed expectations have kept our clients coming back, time and time again. 
 
-Come in and record a song with us to find out for yourself
+Come in and record a song with us to find out for yourself why were voted one of the best recording studios in Philadelphia.
