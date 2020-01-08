@@ -3,23 +3,25 @@ title: Rates & Services
 tags: front_page
 header_image: true
 ---
-# Recording Studio Price List
+# Record A Song With Us
 
-## Studio A & B
+<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
-<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Gear List">Studio Gear List</a>
+## Studio A
 
-$50/hr - Studio A with Engineer Zack Hanni
+Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceover work, podcasts, and rehearsals.
 
-$30/hr - Studio B with Engineer Gage Bingham
+## Studio B
 
-Includes professional recording engineer, recording, mixing, mastering and file transfers for duration of time booked.
+Our second studio with a larger seating area. Less expensive but still maintains our high-quality standard. Engineer Included. Great for group recording, larger podcasts, and events.
 
-$20 BYOC - Recording Studio Rental. Bring your own computer. You can rent our space and equipment to do your own recording and production. (Engineer not included, ask abount monthly packages)
+**_All work must be completed during booked studio time_**
 
-$15/Song Stem export (if outside of booked studio time)
+## BYOC 
 
-**_All work must be done during time booked_**
+Bring Your Own Computer for an even larger discount. You can rent our space and equipment to do your own recording and production. Engineer **_not_** included.
+
+Monthly packages are available for **_HUGE_** discounts on BYOC. Pay by the month and come record whenever you want! 
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
 
@@ -28,7 +30,7 @@ $15/Song Stem export (if outside of booked studio time)
 
 - - -
 
-It's always valuable to have a fresh set of ears when mixing and mastering a song -- otherwise you develop bias and waste time nit-picking when you could be making your next hit. Learn More about mastering a song <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">here</a>.
+It's always valuable to have a fresh set of ears when mixing and mastering a song -- otherwise, you develop bias and waste time nit-picking when you could be making your next hit.
 
 - - -
 
@@ -36,58 +38,49 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 If you have tracked out stems ready to be mixed and cleaned up we offer flat rates
 
-$90 Mix and Master : Vocals + Stereo Instrumental (Less than 10 track stems)
+$100 Mix and Master : Stereo Instrumental + Vocal Stems
 
-$145 Mix and Master : Multitrack Recording 10 - 49 track stems
+$150 Mix and Master : Multitrack Recording 10 - 25 track stems
 
-$200 Mix and Master : Big Multitrack 50+ track stems
+$200 Mix and Master : Multitrack Recording 25 - 40 track stems
 
-$30 Mastering Only
+For larger mixing projects please contact us directly.
 
-(we prefer stems to have 24 bit depth, 48k sample rate or better)
+$30 Song Mastering Only. <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
 
-## Please allow 2-4 business days for completion per song
+(we prefer stems to have 24 bit depth, 48k - 96k sample rate or better)
 
-- - -
-
-## Photography / Music Videos
- 
-**_Dont hire an expensive photographer, have Soma take pictures or video for a discounted rate_**
-
-In-house editing with a fast turnaround on content (usually same day!)
-
-Promote yourself with a 1 minute instagram highlight video, or showcase your latest release with a studio music video
+## Please allow 3-4 business days per song for completion.
 
 - - -
 
-We're not just a hip hop recording studio, we have experiance with all genres and styles. 
+Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio-ready --  you never know who's listening!
 
-Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio ready --  you never know who's listening!
+- - -
+
+## Podcast Recording and Events
+
+We have multiple spaces available to accommodate any size podcast or event. Whether its a 1 on 1 interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (and we can travel!)
+
+We also shoot live video and stream your episode out to your fans so they can be here experiencing it with you!
+
+**_FREE episode editing for most podcasts_**
 
 - - -
 
 ## Music Production and Beats
 
-<a href="https://soundcloud.com/somastudios/sets/beats-for-sale" target="SoundCloud Beats For Sale">Listen to our beats on SoundCloud</a>
+with over 12 years of production experience, we are ready to create whole instrumentals around your vocal or melody. From Electronic to Pop, Hip-hop to Indie rock, we got you covered. Let one of our experienced musicians elevate your song idea into a full-bodied custom work of complex art.
 
-<a href="https://www.beatstars.com/soundslikesoma/feed" target="Beats For Sale on BeatStars">Buy / Listen to our recent beats on BeatStars</a>
+Contact us directly about custom beats and instrumentals so we can do our best to understand your needs within your budget.
 
-**_...OR contact us about custom beats_**
+Remember, we're not just a hip hop recording studio, we have experience with all genres and styles. 
 
 - - -
 
-## Podcast Recording Studios
+## Music, Production, and DJ Lessons
 
-**_Our Podcast Studio offers FREE episode editing for most podcasts_**
-
-$50/hr in Studio A
-
-Multiple Locations Available (and we can travel to you)
-
-Not only can we help you record a podcast, we shoot live video and stream your episode out to your fans base
-- - -
-
-## Music Lessons
+DJing / Beatmatching / Live Performance Practice
 
 Acoustic and Electric Guitar
 
