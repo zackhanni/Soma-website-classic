@@ -50,7 +50,7 @@ $30 Song Mastering Only. <a href="https://www.izotope.com/en/learn/what-is-maste
 
 (we prefer stems to have 24 bit depth, 48k - 96k sample rate or better)
 
-## Please allow 3-4 business days per song for completion.
+**_Please allow 3-4 business days per song for completion._**
 
 - - -
 
@@ -60,7 +60,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 ## Podcast Recording and Events
 
-We have multiple spaces available to accommodate any size podcast or event. Whether its a 1 on 1 interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (and we can travel!)
+We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we can travel!)
 
 We also shoot live video and stream your episode out to your fans so they can be here experiencing it with you!
 
