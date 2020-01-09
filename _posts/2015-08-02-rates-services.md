@@ -9,7 +9,7 @@ header_image: true
 
 ## Studio A
 
-Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceover work, podcasts, and rehearsals.
+Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceover work, podcasts, and small rehearsals.
 
 ## Studio B
 
@@ -62,15 +62,17 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we can travel!)
 
-We also shoot live video and stream your episode out to your fans so they can be here experiencing it with you!
-
 **_FREE episode editing for most podcasts_**
+
+We also shoot live video and stream your episode out to your fans so they can be here experiencing it with you!
 
 - - -
 
 ## Music Production and Beats
 
-with over 12 years of production experience, we are ready to create whole instrumentals around your vocal or melody. From Electronic to Pop, Hip-hop to Indie rock, we got you covered. Let one of our experienced musicians elevate your song idea into a full-bodied custom work of complex art.
+With over 12 years of production experience, we are ready to create whole instrumentals around your vocal or melody. From Electronic to Pop, Hip-hop to Indie rock, we got you covered.
+
+Let one of our experienced musicians elevate your song idea into a full-bodied custom work of complex art.
 
 Contact us directly about custom beats and instrumentals so we can do our best to understand your needs within your budget.
 
@@ -80,15 +82,11 @@ Remember, we're not just a hip hop recording studio, we have experience with all
 
 ## Music, Production, and DJ Lessons
 
-DJing / Beatmatching / Live Performance Practice
+Learn to DJ / Beatmatching / Live Performance Practice
 
-Acoustic and Electric Guitar
+Acoustic and Electric Guitar Lessons
 
-Recording / Audio Mixing / Vocal Editing
-
-Music Arangement / Music Production / Synthesizers / Make Beats
-
-**_Learn to use the right effects to make your next song pop!_**
+Music Production / Learn How to mix a song / Make Beats
 
 <br />
 
