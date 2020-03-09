@@ -8,20 +8,20 @@ header_image: true
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
 ## Studio A
-### 1554 S Lambert St
+#### 1554 S Lambert St
 
 Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceover work, podcasts, and small rehearsals.
 
 
 ## Studio B
-### 1554 S. Lambert St.
+##### 1554 S Lambert St
 
 Our second studio with a larger seating area. Less expensive but still maintains our high-quality standard. Engineer Included. Great for group recording, larger podcasts, and events.
 
 
 ## Studio 808 (Center City)
-### Available: Wed + Sat Only
-### 211 N 13th St, Philadelphia
+Available: Wed + Sat Only
+211 N 13th St, Philadelphia
 
 Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit.
 

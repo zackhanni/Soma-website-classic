@@ -4,14 +4,14 @@ tags: front_page
 header_image: true
 ---
 
-# Studio Demos
+## Studio Demos
 
 Check out our official Spotify playlist of recent projects released by our artists.
 
 <iframe src="https://open.spotify.com/embed/playlist/1SrE4JTiMVMkgMFNsZG5fL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br />
 
-## Custom Beats and Music Production
+### Custom Beats and Music Production
 
 Soma works with some of the best beat producers and music producers in Philadelphia. Contact us for more information so we can set up a consultation for instrumenting your next project.
 
