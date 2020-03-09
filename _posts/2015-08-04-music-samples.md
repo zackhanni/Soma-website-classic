@@ -13,7 +13,7 @@ Check out our official Spotify playlist of recent projects released by our artis
 
 ### Custom Beats and Music Production
 
-Soma works with some of the best beat producers and music producers in Philadelphia. Contact us for more information so we can set up a consultation for instrumenting your next project.
+For custom instrumentals, book a free consultation to talk about how we can capture your musical vision
 
 <a href="https://soundcloud.com/somastudios/sets/beats-for-sale" target="SoundCloud Beats For Sale">Listen to our beats on SoundCloud</a>
 

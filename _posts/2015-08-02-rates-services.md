@@ -8,21 +8,21 @@ header_image: true
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
 ## Studio A
-##### 1554 S Lambert St
+##### 1554 S Lambert St (South Philly)
 
 Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceovers and podcasts.
-
-
-
+  
+  
+  
 ## Studio B
-##### 1554 S Lambert St
+##### 1554 S Lambert St (South Philly)
 
 Our second studio with a larger seating area. Engineer Included. Great for group recordings, larger podcasts, and events.
 
-
+<br> </br>
 
 ## Studio 808
-##### 211 N 13th St (Wed + Sat Only)
+##### 211 N 13th St (Center City - Wed + Sat Only)
 
 Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit.
 
@@ -91,13 +91,11 @@ We also shoot live video and stream your episode out to your fans so they can be
 
 ## Music Production and Beats
 
-With over 12 years of production experience, we are ready to create whole instrumentals around your vocal or melody. From Electronic to Pop, Hip-hop to Indie rock, we got you covered.
+With over 13 years of production experience, we are ready to create whole instrumentals around your vocal or melody. From Electronic, Pop, or Indie Bands to Hip-hop recording studio, we got you covered.
 
-Let one of our experienced musicians elevate your song idea into a full-bodied custom work of complex art.
+Our experienced musicians elevate your song idea into a full-bodied custom work of complex art.
 
-Contact us directly about custom beats and instrumentals so we can do our best to understand your needs within your budget.
-
-Remember, we're not just a hip hop recording studio, we have experience with all genres and styles. 
+Contact us directly about custom beats and instrumentals so we can create something incredible within your budget.
 
 - - -
 
@@ -112,3 +110,4 @@ Acoustic and Electric Guitar Lessons
 <br />
 
 <blockquote>"Was a pleasure working with Soma Recording Studios. They have great up to date equipment. They make sure you come first. Very affordable and does great work. Would suggest anyone wanting to record to go here." - Gage Bingham</blockquote>
+
