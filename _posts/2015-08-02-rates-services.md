@@ -8,20 +8,39 @@ header_image: true
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
 ## Studio A
+### 1554 S Lambert St
 
 Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceover work, podcasts, and small rehearsals.
 
+
 ## Studio B
+### 1554 S. Lambert St.
 
 Our second studio with a larger seating area. Less expensive but still maintains our high-quality standard. Engineer Included. Great for group recording, larger podcasts, and events.
 
+
+## Studio 808 (Center City)
+### Available: Wed + Sat Only
+### 211 N 13th St, Philadelphia
+
+Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit.
+
+We’ve also included a photography / video suite with lights, green screen, and  an amazing view of center city. 
+
+We’re excited to show off how far we’ve come since moving to Philly! Visit us at the new space and receive a discount on studio time! Only $50/hr for a limited time.
+
+Recording $50/hr (OPENING SALE!)
+Photography space rental $25/hr
+
 **_All work must be completed during booked studio time_**
+
 
 ## BYOC 
 
 Bring Your Own Computer for an even larger discount. You can rent our space and equipment to do your own recording and production. Engineer **_not_** included.
 
 Monthly packages are available for **_HUGE_** discounts on BYOC. Pay by the month and come record whenever you want! 
+
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
 
