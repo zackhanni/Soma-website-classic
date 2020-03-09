@@ -8,20 +8,21 @@ header_image: true
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
 ## Studio A
-#### 1554 S Lambert St
+##### 1554 S Lambert St
 
-Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceover work, podcasts, and small rehearsals.
+Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceovers and podcasts.
+
 
 
 ## Studio B
 ##### 1554 S Lambert St
 
-Our second studio with a larger seating area. Less expensive but still maintains our high-quality standard. Engineer Included. Great for group recording, larger podcasts, and events.
+Our second studio with a larger seating area. Engineer Included. Great for group recordings, larger podcasts, and events.
 
 
-## Studio 808 (Center City)
-Available: Wed + Sat Only
-211 N 13th St, Philadelphia
+
+## Studio 808
+##### 211 N 13th St (Wed + Sat Only)
 
 Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit.
 
@@ -33,6 +34,7 @@ Recording $50/hr (OPENING SALE!)
 Photography space rental $25/hr
 
 **_All work must be completed during booked studio time_**
+
 
 
 ## BYOC 
@@ -65,9 +67,9 @@ $200 Mix and Master : Multitrack Recording 25 - 40 track stems
 
 For larger mixing projects please contact us directly.
 
-$30 Song Mastering Only. <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
+$40 Song Mastering Only. <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
 
-(we prefer stems to have 24 bit depth, 48k - 96k sample rate or better)
+(we prefer stems to have 24 bit depth, 48k sample rate or higher)
 
 **_Please allow 3-4 business days per song for completion._**
 
@@ -77,9 +79,9 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-## Podcast Recording and Events
+## Podcast Recording / Voiceovers / Radio Shows / Events
 
-We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we can travel!)
+We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we travel!)
 
 **_FREE episode editing for most podcasts_**
 
@@ -101,11 +103,11 @@ Remember, we're not just a hip hop recording studio, we have experience with all
 
 ## Music, Production, and DJ Lessons
 
-Learn to DJ / Beatmatching / Live Performance Practice
+Ableton Live Lessons / Music Production / Beatmaking
+
+Learn to DJ / Live Performance Practice / Vocal Lessons
 
 Acoustic and Electric Guitar Lessons
-
-Music Production / Learn How to mix a song / Make Beats
 
 <br />
 
