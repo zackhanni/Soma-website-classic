@@ -11,15 +11,15 @@ header_image: true
 ##### 1554 S Lambert St (South Philly)
 
 Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceovers and podcasts.
-  
-  
-  
+
+<br>
+
 ## Studio B
 ##### 1554 S Lambert St (South Philly)
 
 Our second studio with a larger seating area. Engineer Included. Great for group recordings, larger podcasts, and events.
 
-<br> </br>
+<br>
 
 ## Studio 808
 ##### 211 N 13th St (Center City - Wed + Sat Only)
@@ -35,7 +35,7 @@ Photography space rental $25/hr
 
 **_All work must be completed during booked studio time_**
 
-
+<br>
 
 ## BYOC 
 
@@ -107,7 +107,6 @@ Learn to DJ / Live Performance Practice / Vocal Lessons
 
 Acoustic and Electric Guitar Lessons
 
-<br />
-
 <blockquote>"Was a pleasure working with Soma Recording Studios. They have great up to date equipment. They make sure you come first. Very affordable and does great work. Would suggest anyone wanting to record to go here." - Gage Bingham</blockquote>
 
+<br>
