@@ -7,20 +7,21 @@ header_image: true
 
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
+## Studio A
 ##### 1554 S Lambert St (South Philly)
 
 Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceovers and podcasts.
 
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
+
 <br>
 
 ## Studio B
-
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
-
 ##### 1554 S Lambert St (South Philly)
 
 Our second studio with a larger seating area. Engineer Included. Great for group recordings, larger podcasts, and events.
+
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
 
 <br>
 
