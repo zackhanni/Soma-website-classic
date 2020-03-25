@@ -5,37 +5,40 @@ header_image: true
 ---
 # Record A Song With Us
 
-<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
-
 ## Studio A
 ##### 1554 S Lambert St (South Philly)
 
-Our premier studio with top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceovers and podcasts.
+<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
+$55/hr
+
+If you want the best this studio has to offer, Studio A has what you need. Experienced professionals who can help sculpt your song and have it ready for radio or online streaming platforms. Top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceovers and podcasts.
 
 <br>
 
 ## Studio B
 ##### 1554 S Lambert St (South Philly)
 
+$20-35/hr
+
 Our second studio with a larger seating area. Engineer Included. Great for group recordings, larger podcasts, and events.
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
+If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master.
 
 <br>
 
 ## Studio 808
-##### 211 N 13th St (Center City - Wed + Sat Only)
+##### 211 N 13th St (Center City)
+
+$55/hr Recording(SALE)
+$25/hr Photography Space Rental
+3 Hour Minimum
 
 Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit.
 
 We’ve also included a photography / video suite with lights, green screen, and  an amazing view of center city. 
 
-We’re excited to show off how far we’ve come since moving to Philly! Visit us at the new space and receive a discount on studio time! Only $50/hr for a limited time.
-
-Recording $50/hr (OPENING SALE!)
-Photography space rental $25/hr
+We’re excited to show off how far we’ve come since moving to Philly! Visit us at the new space and receive a discount on studio time! Only $55/hr for a limited time.
 
 **_All work must be completed during booked studio time_**
 
@@ -46,12 +49,6 @@ Photography space rental $25/hr
 Bring Your Own Computer for an even larger discount. You can rent our space and equipment to do your own recording and production. Engineer **_not_** included.
 
 Monthly packages are available for **_HUGE_** discounts on BYOC. Pay by the month and come record whenever you want! 
-
-
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #1E93CC; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/8GNV6PJ8WK7YH/sounds-like-soma-philadelphia-pa" rel="nofollow">Book Studio A</a> <!-- End Square Appointments Embed code -->
-
-
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #BF003F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" rel="nofollow">Book Studio B</a> <!-- End Square Appointments Embed code -->
 
 - - -
 
@@ -83,13 +80,14 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-## Podcast Recording / Voiceovers / Radio Shows / Events
+## Podcast Recording / Voiceovers / Radio Shows / Events / Live Streaming
 
-We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we travel!)
+$50/HR
+**_FREE episode editing for most services_**
 
-**_FREE episode editing for most podcasts_**
+We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we travel!) 
 
-We also shoot live video and stream your episode out to your fans so they can be here experiencing it with you!
+Book a FREE consultation to come talk to us and check out the studios in person.
 
 - - -
 
