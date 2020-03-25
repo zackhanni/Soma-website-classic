@@ -77,7 +77,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 ## Podcast Recording / Voiceovers / Radio Shows / Events / Live Streaming
 
-$50/hr ** - FREE episode editing for most services **
+$50/hr - **_FREE episode editing for most services_**
 
 We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we travel!) 
 
