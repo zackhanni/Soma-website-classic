@@ -5,6 +5,8 @@ header_image: true
 ---
 # Record A Song With Us
 
+- - -
+
 ## Studio A
 ##### 1554 S Lambert St (South Philly)
 
@@ -12,7 +14,7 @@ header_image: true
 
 $55/hr
 
-If you want the best this studio has to offer, Studio A has what you need. Experienced professionals who can help sculpt your song and have it ready for radio or online streaming platforms. Top of the line equipment ready to record and produce your next radio hit. Engineer Included. This sound isolated room is also great for voiceovers and podcasts.
+If you want the best this studio has to offer, Studio A has what you need. Experienced professionals who can help sculpt your song and have it ready for radio or online streaming platforms. Top of the line equipment ready to record and produce your next radio hit. Engineer Included (Zack). This sound isolated room is also great for voiceovers and podcasts.
 
 <br>
 
@@ -21,7 +23,7 @@ If you want the best this studio has to offer, Studio A has what you need. Exper
 
 $20-35/hr
 
-Our second studio with a larger seating area. Engineer Included. Great for group recordings, larger podcasts, and events.
+Our second studio with a larger seating area. Engineer Included (Gage). Great for group recordings, larger podcasts, and events.
 
 If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master.
 
@@ -31,22 +33,18 @@ If you're recording on a budget, start off in Studio B, then move to Studio A to
 ##### 211 N 13th St (Center City)
 
 $55/hr Recording(SALE)
+
 $25/hr Photography Space Rental
-3 Hour Minimum
 
-Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit.
-
-We’ve also included a photography / video suite with lights, green screen, and  an amazing view of center city. 
-
-We’re excited to show off how far we’ve come since moving to Philly! Visit us at the new space and receive a discount on studio time! Only $55/hr for a limited time.
-
-**_All work must be completed during booked studio time_**
+Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit. We’ve also included a photography / video suite with lights, green screen, and  an amazing view of center city. 
 
 <br>
 
 ## BYOC 
 
-Bring Your Own Computer for an even larger discount. You can rent our space and equipment to do your own recording and production. Engineer **_not_** included.
+$20/hr
+
+Bring Your Own Computer. You can rent our space and equipment to do your own recording and production. Engineer **_not_** included.
 
 Monthly packages are available for **_HUGE_** discounts on BYOC. Pay by the month and come record whenever you want! 
 
@@ -82,8 +80,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 ## Podcast Recording / Voiceovers / Radio Shows / Events / Live Streaming
 
-$50/HR
-**_FREE episode editing for most services_**
+$50/hr **_ - FREE episode editing for most services_**
 
 We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we travel!) 
 
