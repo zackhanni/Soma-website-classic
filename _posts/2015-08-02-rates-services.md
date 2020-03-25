@@ -3,9 +3,6 @@ title: Rates & Services
 tags: front_page
 header_image: true
 ---
-# Record A Song With Us
-
-- - -
 
 ## Studio A
 ##### 1554 S Lambert St (South Philly)
@@ -80,11 +77,11 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 ## Podcast Recording / Voiceovers / Radio Shows / Events / Live Streaming
 
-$50/hr **_ - FREE episode editing for most services_**
+$50/hr ** - FREE episode editing for most services **
 
 We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we travel!) 
 
-Book a FREE consultation to come talk to us and check out the studios in person.
+**_Book a FREE consultation to come talk to us and check out the studios in person._**
 
 - - -
 
