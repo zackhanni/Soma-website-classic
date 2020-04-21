@@ -6,10 +6,10 @@ header_image: true
 
 # Recording Studio
 
+<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">#### Studio Gear List</a>
+
 ## Studio A
 ##### $55/hr
-
-<a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
 If you want the best this studio has to offer, Studio A has what you need. Experienced professionals who can help sculpt your song and have it ready for radio or online streaming platforms. Top of the line equipment ready to record and produce your next radio hit. Engineer Included (Zack). This sound isolated room is also great for voiceovers and podcasts.
 
