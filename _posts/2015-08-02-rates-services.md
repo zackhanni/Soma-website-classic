@@ -5,7 +5,7 @@ header_image: true
 ---
 
 ## Studio A
-##### $55/hr - 1554 S Lambert St (South Philly)
+##### $55/hr
 
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
 
@@ -14,7 +14,7 @@ If you want the best this studio has to offer, Studio A has what you need. Exper
 <br>
 
 ## Studio B
-##### $35/hr - 1554 S Lambert St (South Philly)
+##### $35/hr
 
 Our second studio with a larger seating area. Engineer Included (Gage). Great for group recordings, larger podcasts, and events.
 
@@ -23,8 +23,7 @@ If you're recording on a budget, start off in Studio B, then move to Studio A to
 <br>
 
 ## BYOC 
-
-$20/hr
+##### $20/hr
 
 Bring Your Own Computer. You can rent our space and equipment to do your own recording and production. Engineer **_not_** included.
 
@@ -36,7 +35,7 @@ It's always valuable to have a fresh set of ears when mixing and mastering a son
 
 - - -
 
-## Multitrack Mixing And Mastering
+## Mixing And Mastering
 
 If you have tracked out stems ready to be mixed and cleaned up we offer flat rates
 
@@ -60,7 +59,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 ## Podcast Recording / Voiceovers / Radio Shows / Events / Live Streaming
 
-$50/hr - **_FREE episode editing for most services_**
+##### $50/hr - FREE editing for most services
 
 We have multiple spaces available to accommodate any size podcast or event. Whether its a one on one interview or a live event with an audience and live performance, we can help make it run smoothly and sound crystal clear. (Yes, we travel!) 
 
