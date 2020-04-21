@@ -4,6 +4,8 @@ tags: front_page
 header_image: true
 ---
 
+# Recording Studio
+
 ## Studio A
 ##### $55/hr
 
@@ -67,7 +69,7 @@ We have multiple acoustically treated spaces available to accommodate any size p
 
 - - -
 
-## Music Production and Beats
+## Music Production
 
 With over 13 years of production experience, we are ready to create whole instrumentals around your vocal or melody. From Electronic, Pop, or Indie Bands to Hip-hop recording studio, we got you covered. Our experienced musicians elevate your song idea into a full-bodied custom work of complex art.
 
@@ -75,11 +77,11 @@ Contact us directly about custom beats and instrumentals so we can create someth
 
 - - -
 
-## Music, Production, and DJ Lessons
+## Lessons
 
-Ableton Live Lessons / Music Production / Beatmaking
+Ableton Live and Music Production
 
-Learn to DJ / Live Performance Practice / Vocal Lessons
+DJing and Beatmatching Lessons
 
 Acoustic and Electric Guitar Lessons
 
