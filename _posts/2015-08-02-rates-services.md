@@ -5,35 +5,20 @@ header_image: true
 ---
 
 ## Studio A
-##### 1554 S Lambert St (South Philly)
+##### $55/hr - 1554 S Lambert St (South Philly)
 
 <a href="https://docs.google.com/document/d/1HLUwtYPdi1T1jxgAa-9-FBaEY2tu0qam09FnswaiqkU/edit?usp=sharing" target="Studio Gear List">Studio Gear List</a>
-
-$55/hr
 
 If you want the best this studio has to offer, Studio A has what you need. Experienced professionals who can help sculpt your song and have it ready for radio or online streaming platforms. Top of the line equipment ready to record and produce your next radio hit. Engineer Included (Zack). This sound isolated room is also great for voiceovers and podcasts.
 
 <br>
 
 ## Studio B
-##### 1554 S Lambert St (South Philly)
-
-$20-35/hr
+##### $35/hr - 1554 S Lambert St (South Philly)
 
 Our second studio with a larger seating area. Engineer Included (Gage). Great for group recordings, larger podcasts, and events.
 
 If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master.
-
-<br>
-
-## Studio 808
-##### 211 N 13th St (Center City)
-
-$55/hr Recording(SALE)
-
-$25/hr Photography Space Rental
-
-Our new studio located in the heart of Philly! This elegant space is not only a recording space, but a full production suite with synths, keyboards, drums, guitars and everything you need to produce your next radio hit. We’ve also included a photography / video suite with lights, green screen, and  an amazing view of center city. 
 
 <br>
 
@@ -59,11 +44,9 @@ $100 Mix and Master : Stereo Instrumental + Vocal Stems
 
 $150 Mix and Master : Multitrack Recording 10 - 25 track stems
 
-$200 Mix and Master : Multitrack Recording 25 - 40 track stems
-
 For larger mixing projects please contact us directly.
 
-$40 Song Mastering Only. <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
+$40 Song Mastering Only.
 
 (we prefer stems to have 24 bit depth, 48k sample rate or higher)
 
@@ -71,7 +54,7 @@ $40 Song Mastering Only. <a href="https://www.izotope.com/en/learn/what-is-maste
 
 - - -
 
-Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio-ready --  you never know who's listening!
+Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio-ready --  you never know who's listening! <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
 
 - - -
 
